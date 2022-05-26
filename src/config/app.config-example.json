@@ -1,0 +1,23 @@
+{
+    "port": 5010,
+    "db": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "weddings",
+      "charset": "utf8mb4",
+      "rejectEmpty": true
+    },
+    "jwt": {
+      "secret": "wedding-scret-key",
+      "expired": 18000000
+    },
+    "site": {
+      "url": "http://localhost:5010",
+      "title": {
+        "main": "Site main title",
+        "sub": "Sub-title heheheh"
+      }
+    }
+  }
+  

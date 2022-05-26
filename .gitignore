@@ -1,0 +1,6 @@
+node_modules
+src/config/app.config.json
+.htaccess
+dist
+.env
+be-wedding.zip
